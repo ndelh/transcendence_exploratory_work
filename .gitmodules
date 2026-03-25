@@ -1,0 +1,6 @@
+[submodule "vmtrans"]
+	path = vmtrans
+	url = git@github.com:ndelh/vmtrans.git
+[submodule "graphana-host"]
+	path = graphana-host
+	url = git@github.com:ndelh/graphana-host.git
